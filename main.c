@@ -1,6 +1,7 @@
 #include <stuido.h>
   int main(void){
-	  printf("hello world\n");
-	  return 0;
+	  int i = 1;
+	  printf("%d\n",i);
+  return 0;
   }
 
